@@ -9,7 +9,7 @@ A significant portion of the course will be devoted to generative models (see th
 | # | Lecture topic | Seminar topic | Homework |
 |---:|---|---|:---:|
 | 1 | Stochastic variational inference | Statistical proofs | |
-| 2 | Doubly stochastic variational inference | - | ✅ |
+| 2 | Doubly stochastic variational inference | - |  |
 | 3 | Sparse variational dropout | Bayesian neural networks | ✅ |
 | 4 | Variational autoencoders / Normalizing flows | Normalizing flows in practice | ✅ |
 | 5 | Gumbel-softmax | VQ-VAE | ✅ |
