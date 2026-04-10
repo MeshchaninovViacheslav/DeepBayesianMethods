@@ -14,8 +14,8 @@ A significant portion of the course will be devoted to generative models (see th
 | 4 | Variational autoencoders / Normalizing flows | Normalizing flows in practice | ✅ |
 | 5 | Gumbel-softmax | VQ-VAE | ✅ |
 | 6 | Loss landscapes through the lens of thermodynamics | Practical aspects |  |
-| 7 | Diffusion models I | Star-shaped diffusion | ✅ |
-| 8 | Diffusion models II | Masked diffusion | ✅ |
+| 7 | Diffusion models I | Masked diffusion | |
+| 8 | Diffusion models II | Star-shaped diffusion | ✅  |
 | 9 | Flow matching | Rectified flows / Mean flow |  |
 | 10 | Diffusion distillation | - | ✅ |
 | 11 | GFlowNet | Diffusion samplers |  |
